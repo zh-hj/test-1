@@ -1,7 +1,7 @@
-**加粗**
-*斜体*
+**加粗**<br>
+*斜体*<br>
 [去百度一下？](http://baidu.com)
-![alt](http://f.hiphotos.baidu.com/image/pic/item/d043ad4bd11373f067aca6bca90f4bfbfbed0406.jpg)
+![alt](1.jpg)
 # H1
 ## H2
 ### H3
